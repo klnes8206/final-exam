@@ -87,12 +87,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\controller.cs" />
     <Compile Include="Assets\turret scripts\BaseProjectile.cs" />
     <Compile Include="Assets\turret scripts\EnemyAi.cs" />
     <Compile Include="Assets\turret scripts\NormalProjectile.cs" />
     <Compile Include="Assets\turret scripts\ShootingSystem.cs" />
     <Compile Include="Assets\turret scripts\TrackingSystem.cs" />
-    <Compile Include="Assets\turret scripts\controller.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
